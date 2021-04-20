@@ -10,9 +10,7 @@ namespace jurossimples
             Console.Beep();
 
             Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
+            Console.WriteLine("        Juros simples        ");
             Console.WriteLine("-----------------------------");
 
             Console.BackgroundColor = ConsoleColor.White;
